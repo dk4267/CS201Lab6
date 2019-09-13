@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\admin\documents\cs201\program6\program6\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\documents\cs201\program6\program6\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\documents\cs201\program6\program6\source.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  Program6.vcxproj -> C:\Users\Admin\Documents\cs201\Program6\Debug\Program6.exe
